@@ -1,6 +1,6 @@
 # QuickPay
 
-### Demo : [https://quickpay2021.herokuapp.com/](https://quickpay2021.netlify.app/)
+### Demo : [https://quickpay2021.netlify.app/](https://quickpay2021.netlify.app/)
 
 Project Idea & Credit : https://dribbble.com/shots/9791792-StartGlobal-Dashboard/attachments/1827226?mode=media
 
